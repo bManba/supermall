@@ -39,5 +39,6 @@
   .recommend-view img {
     width: 60px;
     height: 60px;
+    margin-bottom: 10px;
   }
 </style>
